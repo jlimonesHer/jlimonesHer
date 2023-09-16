@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Python and C in school 42 Malaga**
 
-- 💬 Ask me about **PHP, HTML, JavaScript, CSS**
+- 💬 Ask me about **PHP, HTML, JavaScript, CSS, C++, SQL, REACT, NodeJS**
 
-- 📫 How to reach me **jlimonesdev@gmail.com**
+- 📫 How to reach me **josec.limones@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
