@@ -1,60 +1,79 @@
-<h1 align="center">Hi 👋, I'm Jose Carlos</h1>
-<h3 align="center">Passionate Web Developer from Spain</h3>
+<h1 align="center">¡Hey! 👋 Soy José Carlos Limones</h1>
+<p align="center">QA Engineer ⚙️ | Full Stack Dev 💻 | Automatizador de todo lo automatizable 🤖 | Málaga 🇪🇸</p>
 
-- 🔭 I’m currently working on [Cursus](https://github.com/jlimonesHer/)
+---
 
-- 🌱 I’m currently learning **Python and C at school 42 Malaga**
+### 🚀 Sobre mí
 
-- 💬 Ask me about **PHP, HTML, JavaScript, CSS, C++, SQL, REACT, NodeJS, Docker, Symfony, Bootstrap, Linux, Bash**
+¡Hola! Soy un apasionado de la automatización, el código limpio y las interfaces bien pensadas. Me dedico a hacer que las pruebas sean más rápidas, los errores más fáciles de detectar y los proyectos más mantenibles.  
+Actualmente, estoy aprendiendo más sobre **Java para backend**, construyendo **apps web modernas** y mejorando mi comunicación como parte clave del trabajo en equipo 🧠💬.
 
-- 📫 How to reach me: [josec.limones@gmail.com](mailto:josec.limones@gmail.com)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/jose-carlos-limones-hernandez/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jose carlos limones hernandez" height="30" width="40" />
-  </a>
+### 🧰 Tecnologías que manejo a diario
+
+#### ⚙️ QA & Automatización
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![Behave](https://img.shields.io/badge/-Behave-BDD-informational)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white)
+![WinAppDriver](https://img.shields.io/badge/-WinAppDriver-0078D7?logo=windows)
+![Toolium](https://img.shields.io/badge/-Toolium-blueviolet)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
+
+#### 🌐 Desarrollo Web
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django)
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?logo=spring&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+
+#### 📊 Visual Analytics & BI
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black)
+
+---
+
+### 🧪 Algunos proyectos
+
+- 🎯 **Framework de QA Web + Desktop** → Integración de Toolium, Behave y WinAppDriver con YAML dinámico.
+- 📋 **Gestor de tareas domésticas** → App con panel, login, recetas y tareas por habitación.
+- 🌍 **Dashboard interactivo BI** → Tableau con métricas reales desde Excel empresarial.
+- 💦 **Sistema de riego automático** → Diseño técnico basado en un terreno real y lógica hidráulica.
+
+---
+
+### 🧠 Cosas que me molan hacer
+
+- Automatizar flujos de prueba 🧪
+- Conectar front y back de forma elegante 🔗
+- Diseñar tareas con formularios reutilizables 🧩
+- Documentar APIs REST con Swagger 📘
+- Pensar cómo mejorar la colaboración de equipo 🧑‍🤝‍🧑
+
+---
+
+### 📬 Conecta conmigo
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/josecarloslimones)
+[![Email](https://img.shields.io/badge/-Email-red?logo=gmail)](mailto:josec.limones@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/jlimonesHer)
+
+---
+
+### 📊 Stats en GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jlimonesHer&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jlimonesHer&theme=radical" width="48%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://symfony.com/" target="_blank" rel="noreferrer">
-    <img src="https://symfony.com/images/logos/header-logo.svg" alt="symfony" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  </a>
-</p>
+---
+
+### 🗯️ Frase que me representa
+
+> “Automatizar no es solo escribir código que haga clic. Es diseñar sistemas que cuiden de ti mientras tú piensas en cosas más importantes.”
+
+---
+
